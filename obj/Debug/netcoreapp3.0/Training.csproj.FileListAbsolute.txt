@@ -1,0 +1,11 @@
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.exe
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.deps.json
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.dll
+D:\Users\bsi50129\.vscode\Training\bin\Debug\netcoreapp3.0\Training.pdb
+D:\Users\bsi50129\.vscode\Training\obj\Debug\netcoreapp3.0\Training.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Training\obj\Debug\netcoreapp3.0\Training.dll
+D:\Users\bsi50129\.vscode\Training\obj\Debug\netcoreapp3.0\Training.pdb
