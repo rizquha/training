@@ -67,12 +67,13 @@ visit https://git-scm.org/download
 </details>
 
 | Kolom pertama | Kolom kedua | Kolom ketiga |
-| ------------- | -----------: | :------------: |
-| Pisang        | 10000       | 1            |
-| Terong        | 67000       | 43           |
-| Semangka      | 25000       | 76           |
-| Melon         | 700         | 70           |
-| Apel          | 64000       | 90           |
+| ------------- | ----------: | :----------: |
+| Pisang        |       10000 |      1       |
+| Terong        |       67000 |      43      |
+| Semangka      |       25000 |      76      |
+| Melon         |         700 |      70      |
+| Apel          |       64000 |      90      |
+| dhfd          |    36478254 |      87      |
 
 
 [1]: https://yahoo.com
